@@ -1,1 +1,9 @@
 # My-first-MERN-app-was-Blog
+app using:
+- webpack
+- react
+- react-context-api
+- react-router-dom
+- css
+- express
+- mongoose
